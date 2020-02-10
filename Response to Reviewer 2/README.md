@@ -5,7 +5,7 @@ The polaized state of the lower band can be tuned to linear polarization when th
 
 The following figure shows the S parameters and AR characteristic of this design. It can be verified that the polaized state at lower band is linear polarization while the upper band is circular polarization.
 
-<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 2/Lower_LP.png" width="300" height="250" /></div>
+<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 2/Lower_LP.png" width="600" height="400" /></div>
 
 
 There two giures show the simulated axial ratio (AR) of the proposed Antenna.
