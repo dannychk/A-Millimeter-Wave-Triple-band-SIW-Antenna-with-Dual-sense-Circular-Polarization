@@ -1,4 +1,8 @@
-Because we set the monitor frequency interval to 0.5GHz during the simulation, some data distortion is caused.  However, in the actual measurement, our frequency interval is 0.01GHz, so there is a deviation between the actual measurement data and the simulation results, so we analyzed the simulated results of the 0.01GHz interval monitor. Finally, the comparison figure of simulation AR between 0.5GHz interval and 0.01GHz scales is uploaded
+Response to comment 1:
+
+The polaized state of the lower band can be tuned to linear polarization when the pair of notches in circular patch is removed as shown the following figure:
+.<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 2/Lower_LP_RD.png" width="500" height="300" /></div>
+
 
 There two giures show the simulated axial ratio (AR) of the proposed Antenna.
 
