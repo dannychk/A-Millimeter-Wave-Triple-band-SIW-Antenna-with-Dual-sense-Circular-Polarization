@@ -2,7 +2,7 @@ Because we set the monitor frequency interval to 0.5GHz during the simulation, s
 
 There two giures show the simulated axial ratio (AR) of the proposed Antenna.
 
-.<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 2/TM210.png" width="1000" height="343" /></div>
+.<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 2/TM210.png" width="850" height="292" /></div>
 
 .<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/screenshot on 0.01G.png" width="500" height="300" /></div>
 
