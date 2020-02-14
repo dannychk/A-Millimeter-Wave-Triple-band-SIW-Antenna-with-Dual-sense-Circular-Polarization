@@ -3,6 +3,7 @@ We added the simulated E-field distributions at 38 GHz at the phase of 0 degrees
 
 ## Response to comment 7:
  The situation that the measured AR bandwidths look better than the simulated ones may be caused by the following factors:
+
 1．	Frequency resolution in simulation. In the measurement, the frequency resolution is 0.01 GHz. However, considering simulation efficiency, the frequency resolution for AR was set to be 0.5 GHz in our previous CST simulation which will introduce a little bit error in simulation. The simulated AR with different frequency resolution are shown in the following figure from which it can be observed a high frequency resolution gives a little wider AR bandwidth. We have updated the simulation results with a frequency resolution of 0.01 GHz in Fig. 14 of the modified manuscript. 
 
 <div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/different scale AR comparison.png" width="500" height="300" /></div>
