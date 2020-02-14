@@ -18,6 +18,6 @@ We have read Chapter 5 “Circular Disk and Ring Antennas” in [F], and we also
 
 <div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 1/TM210.png" width="850" height="292" /></div>
 
-<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 1/TM210_Modle.png" width="400" height="369" /></div>
+<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 1/TM210_Modle.png" width="550" height="508" /></div>
 
 In order to make this cavity radiate, we etch a circular slot in the cavity. After etching the slot, TM210 mode is disturbed and the E-field distribution in the circular slot is shown in Fig. 3(b) of the latest manuscript which is similar with the fundamental mode of a conventional ring slot. So we conclude that the upper band evolves from TM210 mode of SIW cavity to the fundamental mode of ring slot. Then a circular patch is placed into the slot for lower and middle band radiation which doesn’t affect the operating mode of upper band.
