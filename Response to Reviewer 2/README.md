@@ -1,17 +1,10 @@
 ## Response to comment 1:
 
-The polaized state of the lower band can be tuned to linear polarization when the pair of notches in circular patch is removed as shown the following figure:
-<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 2/Lower_LP_RD.png" width="300" height="250" /></div>
-
-The following figure shows the S parameters and AR characteristic of this design. It can be verified that the polaized state at lower band is linear polarization while the upper band is circular polarization.
-
-<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 2/Lower_LP.png" width="400" height="267" /></div>
-
-The polaized state at upper band is same to the lower band. The results of upper band is linear polarization are shown below:
+Thank you very much for your comments and advices. The proposed triple-band antenna is single-feed, and initially all the three bands are linear polarized. Two pairs of notches are introduced into the slot and patch to perturb the fundamental resonant mode into two orthogonal degenerate modes for CP radiation at upper and lower bands. The notches have no effects on middle band, so it is linear polarization at middle band. For upper and lower band, by placing the notches along the other diagonal direction, the rotation of CP can be changed to the opposite one. If we remove the notches, CP will transfer to LP at upper and lower band. Some simulated results are shown as following to explain this problem. Although these results can’t be wholly presented in the paper due to the limitation of space, we have made a brief discussion on this problem in Section IV of the revised manuscript. When the pair of notches on the patch is removed, the antenna structure and corresponding S11 and AR results are shown in the following figure. The CP at the lower band disappears and it has transferred into LP. <div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 2/Lower_LP_RD.png" width="300" height="250" /></div>
 
 <div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 2/Upper_LP_RD.png" width="300" height="250" /></div>
 
-<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 2/Upper_LP.png" width="400" height="267" /></div>
+<div align=center><img src="https://github.com/dannychk/A-Millimeter-Wave-Triple-band-SIW-Antenna-with-Dual-sense-Circular-Polarization/blob/master/Response to Reviewer 2/Upper_LP_RD.png" width="400" height="267" /></div>
 
 
 ## Response to comment 4:
